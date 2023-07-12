@@ -33,3 +33,14 @@ To install and run the Pizzeria Software, follow these steps:
 3. Build the project to resolve dependencies and compile the application.
 
 4. Launch the software and start exploring its various features.
+5. 
+   #Preview
+
+   ![image](https://github.com/MaxenceRaveau/Pizzeria-software/assets/35483018/377d1311-1ec0-497f-8ca8-31a5b1ee0d7f)
+
+   ![image](https://github.com/MaxenceRaveau/Pizzeria-software/assets/35483018/f22cf8e9-3779-49e5-8b0c-5ae2e2031108)
+
+   ![image](https://github.com/MaxenceRaveau/Pizzeria-software/assets/35483018/be2dfc1f-8919-42a6-a59a-e28901beaf01)
+
+  
+
